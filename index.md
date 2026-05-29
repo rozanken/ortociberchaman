@@ -1,4 +1,5 @@
 # ORTOCIBERCHAMAN: Interfaz de Gestión Biomecánica
+![Avatar del Nodo](Gemini_Generated_Image_2l6iig2l6iig2l6i.jpeg)
 
 ---
 ### [SYSTEM_STATUS: ONLINE]
